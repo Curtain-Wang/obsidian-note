@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f287a9d904c15c27",
@@ -161,6 +161,8 @@
   },
   "active": "54b36b6a83604172",
   "lastOpenFiles": [
+    "ARM/images/Pasted image 20241115082845.png",
+    "ARM/images/Pasted image 20241115080936.png",
     "ARM/images/Pasted image 20241112083910.png",
     "ARM/images/Pasted image 20241112082140.png",
     "ARM/E4815V112.md",
@@ -174,8 +176,6 @@
     "ARM/images",
     "Pasted image 20241111152237.png",
     "Pasted image 20241111152228.png",
-    "Pasted image 20241111152217.png",
-    "Pasted image 20241111152203.png",
     "ARM",
     "BMS",
     "QT"

@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "658b76d11446aabc",
+        "id": "985ff076be06d63b",
         "type": "tabs",
         "children": [
           {
-            "id": "53ffc5222b5f7b76",
+            "id": "07c384ef8c2ba471",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCU/HC32F46/相关资料路由.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "相关资料路由"
-            }
-          },
-          {
-            "id": "b723cee14cc36ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作笔记/DMA发送全部历史记录数据到串口.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DMA发送全部历史记录数据到串口"
-            }
-          },
-          {
-            "id": "e130189f324a3246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作笔记/SPI一主多从实现.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SPI一主多从实现"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,15 +156,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e130189f324a3246",
+  "active": "54b36b6a83604172",
   "lastOpenFiles": [
+    "MCU/HC32F46/相关资料路由.md",
     "工作笔记/DMA发送全部历史记录数据到串口.md",
     "工作笔记/SPI一主多从实现.md",
     "工作笔记/Pasted image 20250228154646.png",
     "工作笔记/Pasted image 20250228154646 1.png",
     "MCU/images/Pasted image 20241121091722.png",
     "工作笔记",
-    "MCU/HC32F46/相关资料路由.md",
     "MCU/学习路路线.md",
     "ARM/E4815V112.md",
     "ARM/images/Pasted image 20241116101627.png",
